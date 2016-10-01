@@ -1,2 +1,2 @@
 # kaggalwa
-Interesting project, dump people
+Interesting project, dumb people
